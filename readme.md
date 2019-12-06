@@ -1,4 +1,4 @@
-<h1>Keep It Green</h1>
+<h1>Keeping It Green</h1>
 
 <p>Keep It Green is a super simple python script that uses Selenium to help you keep committed to GitHub even when you're sleeping.</p><p>This is a simple documentation on the project to help you get started. </p>
 
