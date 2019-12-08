@@ -2,7 +2,7 @@
 
 <p>Keeping It Green is a super simple python script that uses Selenium to help you keep committed to GitHub even when you're sleeping.</p><p>This is a simple documentation on the project to help you get started. </p>
 
-<p><b>Note: </b>The tutorial assumes that you're using a Unix based machine.</p>
+<p><b>Note: </b>This documentation assumes that you're using a Unix based machine. However, setting up is very similar in Windows.</p>
 
 <h1>To setup the script</h1>
 <p>This script requires the Selenium framework and the <code>chromedriver</code></p>
