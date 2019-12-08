@@ -13,7 +13,7 @@
 <h2>In your operating system</h2>
 <list>1. Install python 2.7 <br>2. To install selenium, using terminal type,<code> pip install selenium</code><br>3. To download <code>chromedriver</code>, go to: <a>https://sites.google.com/a/chromium.org/chromedriver/downloads</a></list>
 
-<b>Note:</b><p>If you want to run this script using other browsers, please refer to: <a>https://selenium-python.readthedocs.io/installation.html</a></p>
+<p><b>Note:</b>If you want to run this script using other browsers, please refer to: <a>https://selenium-python.readthedocs.io/installation.html</a></p>
 
 <h2>In the script</h2>
 
