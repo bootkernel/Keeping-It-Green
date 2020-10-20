@@ -7,7 +7,7 @@
 <h1>To setup the script</h1>
 <p>This script requires the Selenium framework and the <code>chromedriver</code></p>
 
-<h2>In github</h2>
+<h2>In GitHub</h2>
 <list>1. Create a dummy repository in Github <br>2. In the repository, create and name the file</list>
 <br>
 <h2>In your operating system</h2>
